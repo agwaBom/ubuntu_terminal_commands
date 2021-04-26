@@ -1,0 +1,3 @@
+upower -e	-list available devices to look for
+upower -i /org/freedesktop/UPower/devices/battery_BATC	-battery info
+acpi		-PACKAGE TO CHECK BATTERY

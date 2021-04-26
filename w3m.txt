@@ -1,0 +1,20 @@
+
+### search
+ctrl+s	-search text & forward
+ctrl+r	-search backward
+
+### URL
+shift+U	-enter url
+shift+b	-backward
+
+### bookmark
+esc+a	-add a bookmark
+esc+b	-open bookmark
+
+### debugging
+v	-view page source
+s	-history
+
+### move
+ctrl+u||i	-move between hyperlink
+ctrl+v		-pgdown

@@ -1,0 +1,4 @@
+top	-check cpu status and ram
+mtr ipadd/domain	-check ping and traceroute
+kill -9 process_id	-kill a process
+killall program_name 	-kill processes related to program

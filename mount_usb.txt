@@ -1,0 +1,4 @@
+fdisk -l		-look what devices can be mounted
+mount path_of_disk path_where_to_mount(ex mount /dev/sdb1 ./usb)	-mount a disk
+umount path_of_disk	-unmount disk
+dpkg -i a b c ... 	-install package via installable file

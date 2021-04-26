@@ -1,0 +1,17 @@
+
+### TMUX basics
+tmux new	-create new session
+tmux splitw -h	-split panes in horizontal
+tmux attach-session -t 0	-attach session
+tmux detach			-detach sessing
+tmux ls				-list
+tmux kill-server		-kill all sessions
+tmux kill-server -t 0		-kill specific session
+
+### control tmux
+ctrl-b	-tmux navigation mode
++[	-tmux scroll mode with up/down
++left/right/up/down	-tmux shift between panes
++x			-kill selected pane
++s			-view all session and panes
+

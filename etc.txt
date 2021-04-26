@@ -1,0 +1,14 @@
+# if package not installing because of not found err
+apt update
+
+# adjust brightness
+cd /sys/class/backlight/intel_backlight
+cat max_brightness			-check max
+vim brightness				-change the value
+
+
+# bash coloring
+1. vim ~/.bashrc
+2. remove # on #force_color_prompt=yes
+3. execute source ~/.bashrc
+

@@ -1,0 +1,10 @@
+ip a				-find network adapter names and check if it's working
+
+### netplan method
+/etc/netplan/00-installer~	-this has the information about network name and passwd
+netplan generate
+netplan apply
+
+### scan ssid
+iw dev wlp1s0 scan | grep SSID -e signal	-display SSID and signal(lower is better)
+

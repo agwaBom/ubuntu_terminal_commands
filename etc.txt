@@ -12,3 +12,7 @@ vim brightness				-change the value
 2. remove # on #force_color_prompt=yes
 3. execute source ~/.bashrc
 
+# copy and paste
+ctrl+w		-cut the word and add it to clipboard buffer
+crtl+u		-cut the line and add it to clipboard buffer
+ctrl+y		-paste

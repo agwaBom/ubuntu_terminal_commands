@@ -1,0 +1,8 @@
+dmidecode
+cat /proc/cpuinfo
+lspci
+
+### detailed hardward information
+lshw
+
+lsho -C network	-for only searcing network info

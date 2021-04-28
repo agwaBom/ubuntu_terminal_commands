@@ -16,3 +16,10 @@ vim brightness				-change the value
 ctrl+w		-cut the word and add it to clipboard buffer
 crtl+u		-cut the line and add it to clipboard buffer
 ctrl+y		-paste
+
+# search file
+find {src_dir} -name {file_or_folder_name
+
+
+# install pkg
+apt install {dir_to_deb}

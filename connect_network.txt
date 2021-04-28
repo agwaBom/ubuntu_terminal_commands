@@ -8,3 +8,8 @@ netplan apply
 ### scan ssid
 iw dev wlp1s0 scan | grep SSID -e signal	-display SSID and signal(lower is better)
 
+### other method
+iwlist scan | grep SSID
+
+### print info abut wireless interface
+iwconfig

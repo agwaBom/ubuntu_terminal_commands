@@ -1,0 +1,5 @@
+locale	-check current locale
+dpkg-reconfigure locales	-reconfigure locale using gnome(gui might be installed)
+
+check-language-support -l kr(or other locale)	-check packages to install language
+

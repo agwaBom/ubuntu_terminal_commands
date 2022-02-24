@@ -1,0 +1,3 @@
+# this can change the font in cli console
+sudo dpkg-reconfigure console-setup
+

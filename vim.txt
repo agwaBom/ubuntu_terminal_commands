@@ -1,0 +1,11 @@
+https://github.com/vim-syntastic/syntastic
+
+https://github.com/tpope/vim-pathogen
+
+https://github.com/davidhalter/jedi-vim
+
+https://github.com/vim-airline/vim-airline
+
+https://github.com/preservim/nerdtree
+
+https://github.com/vim-airline/vim-airline-themes
